@@ -1,0 +1,14 @@
+INSERT INTO `users` (`id`, `email`, `password`, `full_name`, `birth_date`, `picture_url`) VALUES (8, 'akerke.sultanova2201@gmail.com', 'akerke', 'Akerke Sultan', '2000-05-01', 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cry..');
+INSERT INTO `users` (`id`, `email`, `password`, `full_name`, `birth_date`, `picture_url`) VALUES(9, '26535@edu.iitu.kz', 'newnew', 'Nazerke Sultan', '2000-01-04', 'https://www.flaticon.com/svg/static/icons/svg/2522/2522088.svg');
+INSERT INTO `users` (`id`, `email`, `password`, `full_name`, `birth_date`, `picture_url`) VALUES(10, 'margorobbie@gmail.com', 'margo', 'Margo Robbie', '2001-01-22', 'https://www.flaticon.com/svg/static/icons/svg/2522/2522088.svg');
+INSERT INTO `users` (`id`, `email`, `password`, `full_name`, `birth_date`, `picture_url`) VALUES(11, 'aliamir@gmail.com', 'amir', 'Aliamir Sultan', '2016-07-24', 'https://www.flaticon.com/svg/static/icons/svg/2522/2522088.svg');
+INSERT INTO `users` (`id`, `email`, `password`, `full_name`, `birth_date`, `picture_url`) VALUES(12, 'dariga', 'dariga', 'Dariga Marat', '2017-11-01', 'https://www.flaticon.com/svg/static/icons/svg/2522/2522088.svg');
+INSERT INTO `users` (`id`, `email`, `password`, `full_name`, `birth_date`, `picture_url`) VALUES(14, 'awesomeakerke@gmail.com', 'qweqwe', 'Akerke Sultanova', '2001-01-22', 'https://www.flaticon.com/svg/static/icons/svg/2522/2522088.svg');
+INSERT INTO `users` (`id`, `email`, `password`, `full_name`, `birth_date`, `picture_url`) VALUES(15, 'assel@gmail.com', 'qweqwe', 'Assel Sultan', '2001-04-01', 'https://www.flaticon.com/svg/static/icons/svg/2522/2522088.svg');
+INSERT INTO `users` (`id`, `email`, `password`, `full_name`, `birth_date`, `picture_url`) VALUES(19, 'test@gmail.com', 'newnew', 'Test Testov', '2017-06-01', 'https://www.flaticon.com/svg/static/icons/svg/2522/2522088.svg');
+
+INSERT INTO `posts` (`id`, `author_id`, `title`, `short_content`, `content`, `post_date`) VALUES(2, 9, 'sdkhfb', '<p>fekshfgss</p>', '<p>feshgejdfbc,ds</p>', '2020-10-13 08:17:05');
+INSERT INTO `posts` (`id`, `author_id`, `title`, `short_content`, `content`, `post_date`) VALUES(3, 8, 'jvhbd xc', '<p>jszhvc</p>', '<p>jhsdzbcd</p>', '2020-10-15 13:19:12');
+INSERT INTO `posts` (`id`, `author_id`, `title`, `short_content`, `content`, `post_date`) VALUES(4, 11, 'Amir', '<p>Amir</p>', '<p>Amir</p>', '2020-10-16 01:45:15');
+INSERT INTO `posts` (`id`, `author_id`, `title`, `short_content`, `content`, `post_date`) VALUES(5, 12, 'Dariga', '<p>Dariga</p>', '<p>Dariga</p>', '2020-10-16 01:47:37');
+INSERT INTO `posts` (`id`, `author_id`, `title`, `short_content`, `content`, `post_date`) VALUES(6, 14, 'gahsvda', '<p>dwdgehjvfbdsc</p>', '<p>fcvgbhnm</p>', '2021-04-25 18:46:13');
